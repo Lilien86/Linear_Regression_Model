@@ -4,6 +4,18 @@
 Implementation of a linear regression model to predict a target variable (`y`) from an input variable (`X`). I show a basic ML process: data preparation, model definition, training, evaluation, and saving.
 
 ---
+<p float="left" style="text-align: center; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/a6232fdb-87c9-4e45-849f-960e276be7c8" width="45%" />
+  <br />
+  <strong>Figure 1: data used</strong>
+</p>
+<p float="left" style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/bf398fad-d04d-4d9d-9368-e52b43d02104" width="45%" />
+  <br />
+  <strong>Figure 2: model prediction after training</strong>
+</p>
+
+
 
 ## **Model Details**
 
