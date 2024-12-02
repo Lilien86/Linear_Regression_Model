@@ -47,7 +47,7 @@ def plot_predictions(train_data=X_train, train_labels=y_train,
     plt.title("Graphique des Prédictions", fontsize=16)
     plt.show()
 
-# plot_predictions()
+plot_predictions()
 
 # Create model Class and displace to GPU
 class LinearRegressionModelV2(nn.Module):
