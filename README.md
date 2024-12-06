@@ -1,4 +1,4 @@
-# **Linear Regression with PyTorch**
+# **Linear Regression**
 
 ## **Overview**
 Implementation of a linear regression model to predict a target variable (`y`) from an input variable (`X`). I show a basic ML process: data preparation, model definition, training, evaluation, and saving.
